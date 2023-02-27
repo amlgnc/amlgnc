@@ -4,5 +4,5 @@
   
   <p></p>
   <a href="https://www.linkedin.com/in/alexandre-malagnac-25999a216"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://retromodern.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
+  <a href="https://retromodern.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
 </div>
